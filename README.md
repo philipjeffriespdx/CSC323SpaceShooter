@@ -1,5 +1,7 @@
-Hi Dr. Mood,
+Hello friends!
 
-The unique thing I added was that instead of firing with mouse click you fire with space bar!  It is a lot easier to play!
+This is a fun space game I developed in Unity with C#!  I did not make any of the graphics however, I got them online!
+
+Thanks
 
 Philip Jeffries
